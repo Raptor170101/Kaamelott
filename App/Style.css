@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+
+
+
+h1#bienvenue-sur-le-quiz-kaamelott {
+    font-family: 'Cinzel', serif ;
+    color: #8f6228;
+}
+p{
+    font-family: 'Cinzel', serif ;
+}
+
+h3#style-de-quiz{
+    color: #585858;
+    font-family: 'Cinzel', serif ;
+}
+
+h3#f1c09c82{
+    color: #585858;
+    font-family: 'Cinzel', serif ;
+}
+
+h3#nombre-de-questions{
+    color: #585858;
+    font-family: 'Cinzel', serif ;
+}
+
+input#number_input_1.st-cs.st-c8.st-c9.st-ca.st-cb.st-ct.st-cu.st-cv.st-cw.st-bb.st-c7.st-cx.st-cy.st-cz.st-d0.st-d1.st-d2.st-d3.st-d4.st-bt.st-bu.st-bv.st-d5.st-bx.st-by.st-bs.st-d6.st-d7{
+    font-family: 'Cinzel', serif ;
+}
+
+h3#question-1-10{
+    font-family: 'Cinzel', serif ;
+}
+
+.st-key-citations_faciles textarea{
+    
+    font-family: 'Cinzel', serif ;
+}
+
+.st-key-reponses_citations_faciles textarea{
+
+    font-family: 'Cinzel', serif ;
+}
+
+.st-key-citations_moyen textarea{
+    
+    font-family: 'Cinzel', serif ;
+}
+
+.st-key-reponses_citations_moyen textarea{
+    font-family: 'Cinzel', serif ;
+}
+
+.st-key-citations_difficiles textarea{
+    
+    font-family: 'Cinzel', serif ;
+}
+
+.st-key-reponses_citations_difficiles textarea{
+    font-family: 'Cinzel', serif ;
+}
+
+
+img {
+    display: flex; 
+    justify-content: center;
+    width: 100%; 
+    height: auto; 
+}
+
+

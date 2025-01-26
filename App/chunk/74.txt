@@ -1,0 +1,372 @@
+e d’une technique d’esquive qui consiste à trouver l’exact bon moment
+où se retirer. (à Karadoc) Placez-vous.
+   KARADOC se place.
+ARTHUR — Si je me retire trop tôt, vous avez le temps de le voir et vous attaquez plus. (à Karadoc)
+Attaquez.
+   KARADOC s’apprête à attaquer. ARTHUR se retire mais KARADOC attaque quand même, dans le
+   vide.
+ARTHUR — Enfin, normalement, quand on voit la cible qui se barre de la ligne un quart d’heure avant,
+on n’attaque pas. Remettez-vous en place.
+   KARADOC se replace et se remet en garde.
+ARTHUR — Si je me retire trop tard je prends l’épée dans la tronche. (à Karadoc) Attaquez.
+   KARADOC attaque, ARTHUR ne bouge pas et s’apprête juste à parer avec sa dague. L’épée passe
+   quand même à coté de lui ARTHUR ne dit rien.
+KARADOC — Ouais, j’ai merdé.
+PERCEVAL — Non mais c’était dur.
+ARTHUR (à Karadoc) — Replacez-vous. Pour trouver le moment exact de l’attaque, il faut bien sentir
+l’adversaire et il se trouve qu’on le sent beaucoup mieux quand on le regarde pas directement, comme
+ça. (son regard porte à une trentaine de degrés de Karadoc) Attaquez.
+   KARADOC attaque, ARTHUR esquive et vient placer sa dague sous le cou de son adversaire.
+ARTHUR — Voilà.
+   PERCEVAL et KARADOC, époustouflés par la démonstration, entrent dans une sorte de transe
+   joyeuse.
+KARADOC (à Perceval) — C’est pas mortel, ça ?
+PERCEVAL — On va pas les exploser, les femmelettes d’en face ?
+   Ils chantent, crient et effectuent une danse tribale. ARTHUR s’en va.
+
+                                                                                        FERMETURE
+
+
+5. INT. SALLE D’ARMES – JOUR
+
+   KARADOC et PERCEVAL s'entraînent, seul. PERCEVAL s’apprête à attaquer avec un gourdin,.
+   KARADOC regarde de coté.
+PERCEVAL — Vous me regardez pas, hein ?
+KARADOC — Non, je suis à trente degrés.
+PERCEVAL — Vous avez pas trop froid ?
+KARADOC — Non. Allez-y.
+   PERCEVAL attaque.
+
+                                                               NOIR
+
+   Un bruit sourd se fait entendre.
+PERCEVAL (OVER) — Vous vous êtes retiré trop tard, là, non ?
+                                               17
+                                       LE FLÉAU DE DIEU II
+                                               A. ASTIER
+
+                                                                                             3 CORS
+
+
+1. INT. COULOIRS – JOUR
+
+   BOHORT frappe à la porte de la chambre d'ARTHUR.
+BOHORT (paniqué) — Sire ! Sire, ouvrez ! C’est affreux !
+   Pas de réponse.
+BOHORT — Sire ! Sire ! Nous allons tous mourir !
+   La porte s’ouvre. ARTHUR, encore dans un demi-sommeil, est passablement agacé.
+ARTHUR —   Bohort, j'essaie de faire une sieste. C’est important, je suis fatigué…
+BOHORT —   Les Huns d’Attila sont à nos portes, Sire ! Notre dernière heure a sonné !
+ARTHUR —   Attila ?
+BOHORT —   À notre porte, Sire ! Il exige de vous voir immédiatement !
+ARTHUR —   Combien ils sont ?
+BOHORT —   Qui ça ?
+ARTHUR —   Comment « qui ça » ? Les Huns !
+BOHORT —   Je ne sais pas… Il y a Attila et un autre, je crois.
+ARTHUR —   Non mais… les Huns, ils sont combien ? Trois mille ?
+BOHORT —   Ça dépend ; Attila, vous le comptez comme un Hun ?
+ARTHUR —   Bah oui, je le compte pas comme un Irlandais !
+BOHORT —   Bah, il y a Attila et un Hun, ça fait deux.
+
+                                                                                        OUVERTURE
+
+
+   1. EXT. GRANDE PORTE – JOUR
+
+   ATTILA, secondé par un soldat, menace ARTHUR, lui-même flanqué de BOHORT, du MAÎTRE
+   D’ARMES et de LÉODAGAN.
+ATTILA — Arthur ! Ta dernière heure a sonné !
+BOHORT (à Arthur) — Qu’est-ce que je vous disais ? Notre dernière heure a sonné !
+ARTHUR — Vous allez vous calmer ou pas ?
+ATTILA — Arthur ! Tu vas mourir ! Kaamelott, c’est zéro ! Des cailloux, des cailloux, des cailloux, ça
+m’énerve !
+LE MAÎTRE D’ARMES — Ça l’énerve, les cailloux ?
+LÉODAGAN — C’est un nomade… La baraque cossue ou le clapier à pécores, il fait pas la différence…
+ARTHUR (à Attila) — Bon, qu’est-ce que vous voulez ?
+ATTILA (vexé) — Qu’est-ce que vous voulez qui ?
+ARTHUR — De quoi ?
+BOHORT — Il faut l’appeler par son nom, Sire ! Vous allez le vexer !
+LE MAÎTRE D’ARMES (incertain) — Et puis il vous tutoie… Est-ce que ça vaut le coup de faire pareil ?
+ARTHUR — Bon. Que désires-tu, Attila ?
+LÉODAGAN — Attila, Chef des Huns.
+ARTHUR — Attendez, il m’appelle pas « Arthur, Roi de Bretagne » !
+LÉODAGAN — Ho hé, moi je m’en fous, hein !
+   ATTILA et son soldat affichent un large sourire sardonique.
+ATTILA — Cette fois-ci, on va pas partir les mains vides !
+   Les envahisseurs rient.
+ARTHUR (à ses hommes) — Qu’est-ce qu’ils nous avaient piqué la dernière fois ?
+BOHORT — Deux cuillers, Sire !
+LÉODAGAN — Sans déconner…
+LE MAÎTRE D’ARMES (apportant une précision) — Non, il y a deux cuillers qu’on ne retrouve pas : on
+suppose que c’est eux.
+ATTILA (toujours narquois) — Cette fois-ci, on part avec les femmes !
+   Les Barbares rient de plus belle.
+ARTHUR — Non, non ! Les femmes, on en a déjà parlé, on peut pas !
+ATTILA (soudain sévère) — Pourquoi pas ?
+ARTHUR — Parce que… les femmes, non.
+   ATTILA et son soldat poussent un horrible cri de guerre.
+LÉODAGAN (lassé) — Oh non, c’est reparti…
+BOHORT (paniqué) — Sire, donnons-lui les femmes ! Je vous en conjure !
+ARTHUR — Mais lesquelles ?
+BOHORT — Toutes ! Les duchesses, les rombières, les bonniches ! Qu’est-ce qu’on en a à foutre ?
+   Les hommes s’étonnent du langage de BOHORT.
+BOHORT — Parfaitement ! S’il faut que je donne ma femme, je la donne ! Et les vôtres avec !
+LE MAÎTRE D’ARMES — Mais, juste une question, on n’a pas encore évoqué l’éventualité de combattre…
+Je dis une bêtise ou pas ?
+BOHORT (dont les nerfs cèdent) — Combattre Attila ? Vous êtes des dingos !
+ARTHUR (aux Barbares) Tu les connais, les femmes de Kaamelott ?
+ATTILA — C’est légendaire ! Les femmes de Kaamelott, c’est les plus belles femmes du monde !
+LÉODAGAN — Eh bah mon vieux… Pour ça comme pour le reste, on n’est pas à la hauteur de la
+légende !
+BOHORT (pleurant sur lui-même) — Mais balancez-leur les radasses et qu’ils s’en aillent au Diable !
+LE MAÎTRE D’ARMES (sur le ton d’un dicton) — Bohort, vous mériteriez une claque.
+ARTHUR — Attila ! Si je te donne la plus belle femme de Kaamelott, tu t’en iras ?
+LE MAÎTRE D’ARMES — Ou « t’en iras-tu ? »
+ARTHUR (fort, à Attila) — T’en iras-tu ? (bas, au Maître d’Armes) Ouais, c’est mieux.
+ATTILA — La plus belle femme de Kaamelott ?
+ARTHUR — La plus belle.
+   ATTILA et son soldat poussent un cri de victoire tonitruant.
+
+
+3. EXT. GRANDE PORTE – JOUR
+
+   Les deux Barbares sont sans expression. Devant eux, ARTHUR a amené GRÜDÜ, qu’il a affublé
+   d’une perruque de fortune, en paille.
+ATTILA — C’est la plus belle femme de Kaamelott ?
+ARTHUR — La plus belle !
+ATTILA — C’est Guenièvre ?
+ARTHUR — Guenièvre ? Non mais Guenièvre, c’est pas la plus belle femme de Kaamelott !
+LÉODAGAN (vexé) — Dites…
+ARTHUR (bas, à Léodagan) — Je déconne, beau-père… Vous voyez bien que je raconte un flan…
+   ARTHUR lance un coup d’œil à BOHORT :
+ARTHUR (à Attila) — Bon, tu prends ou tu prends pas ?
+ATTILA — D’accord ! On la prend !
+GRÜDÜ — Et merde…
+
+                                                                                     FERMETURE
+
+
+4. EXT. GRANDE PORTE – JOUR
+
+   GRÜDÜ s’apprête à partir avec ATTILA. ARTHUR tente un dernier subterfuge.
+ARTHUR (à Attila) — Par contre, attention, elle peut pas faire de cheval !
+ATTILA — Pas faire de cheval ? Pourquoi pas ?
+ARTHUR (cherchant) — Parce que… elle sait pas en faire, déjà… Et puis, ça la… elle est malade à
+cheval. Elle vomit.
+ATTILA — Elle vomit ?
+ARTHUR — Ouais. Vous la… Tu la prends quand même ?
+   ATTILA regarde son soldat.
+
+                                                                                             NOIR
+
+   Ils poussent tous deux leur horrible cri de guerre.
+                                           18
+                                    CRYDA DE TINTAGEL
+                                              A. ASTIER
+
+                                                                                              3 CORS
+
+
+1. INT. SALLE DU TRÔNE – JOUR
+
+   ARTHUR et LÉODAGAN reçoivent YGERNE.
+ARTHUR (la tête dans les mains) — Pour la centième fois, vous n’avez rien à foutre ici, mère !
+LÉODAGAN (lassé, à Ygerne) — Évidemment, c’est pour une demande officielle ?
+YGERNE — Parfaitement. Vous me prenez pour qui ?
+LÉODAGAN — Eh bah allez-y. Et si ça devient personnel, je vous fous dehors. (à Arthur) Excusez-moi
+mais au bout d’un moment…
+ARTHUR — Ah bah, si c’est pas vous, c’est moi !
+YGERNE — Je viens vous annoncer la visite officielle d’une importante personnalité de Tintagel.
+ARTHUR (cynique) — Parce qu’il y a des personnalités, à Tintagel ?
+LÉODAGAN — Une visite diplomatique ?
+YGERNE — Exactement. Il s’agit de Dame Cryda…
+ARTHUR (la coupant) — Ah ! C’est ma tante !
+LÉODAGAN — Celle que vous pouvez pas blairer ?
+ARTHUR — Celle-là même ! (à Ygerne) Je vous préviens, il est hors de question qu’elle foute les pieds
+ici !
+LÉODAGAN — C’est diplomatique !
+YGERNE — C’est comme ça qu’on accueille sa tatie ?
+
+                                                                                        OUVERTURE
+
+
+2. INT. SALLE À MANGER – JOUR
+
+   ARTHUR déjeune avec YGERNE, LÉODAGAN, SÉLI, GUENIÈVRE, YVAIN et CRYDA.
+CRYDA — Pourtant, on m'avait prévenue que c’était moche, Kaamelott, mais là vraiment, je m’attendais
+pas à ça.
+LÉODAGAN (à Arthur) — Ah ouais, quand même…
+ARTHUR — Oh là encore, elle est un peu timide. Laissez-lui le temps de se mettre à l’aise…
+YGERNE — Les pierres sont trop claires. Je le dis depuis le début, moi !
+CRYDA — C’est pas compliqué, on dirait un tas de fumier posé sur la colline.
+GUENIÈVRE — En tout cas, je suis ravie de vous rencontrer, tante Cryda.
+CRYDA (aux autres) — Qui c’est qu’elle appelle « tante Cryda », celle-là ?
+SÉLI — Bah si, en somme : vous êtes sa tante par alliance !
+CRYDA — Ah, c’est vrai, le mariage… C’est magique, le mariage : en trente secondes, on passe de fille
+de fermiers à Reine de Bretagne…
+GUENIÈVRE — Fille de fermiers ?
+LÉODAGAN — Ah attention, là on va pas être copains !
+ARTHUR (discrètement, à Léodagan) — Vous n’avez aucune chance.
+LÉODAGAN — Je vais pas me laisser traiter de pécore, si ?
+YVAIN — On avait quand même une activité agricole soutenue, père !
+LÉODAGAN (calme) — La ferme.
+YVAIN — Oui, la ferme, mais pas seulement…
+SÉLI (à son fils) — La barbe ! Quand on aura besoin de vos avis, on vous écrira.
+CRYDA — Attention, j’ai rien contre les bouseux ! D’habitude, je mange pas avec, c’est tout.
+SÉLI — Pourquoi ? Ils vous trouvent trop chiante ?
+LÉODAGAN (à Ygerne) — Ils sont tous comme ça, à Tintagel ?
+YGERNE — Je vous rappelle qu’il s’agit de la belle-sœur d’Uther. Elle est habituée à d’autres prestiges
+pour les repas !
+CRYDA — C’est sûr que c’était autre chose ! (nostalgique) La table du Roi !
+LÉODAGAN (désignant Arthur) — Eh ben et ça ? C’est Jo-le-clodo, peut-être ?
+CRYDA — Le Bâtard ? Quand j'y pense… je crois que j’aimerais mieux être la tante d’un cochon
+pesteux.
+GUENIÈVRE (à Arthur) — Mais vous dites rien, vous ?
+ARTHUR (calme) — Non mais moi, ça va, je la connais. Allez-y, profitez, vous…
+YVAIN — Mais en fait, pourquoi vous êtes venue, Madame ?
+CRYDA — Pour faire parler les débiles.
+   YVAIN est mouché.
+SÉLI (à son fils) — Vous l’avez pas volée, celle-là.
+GUENIÈVRE — Mais enfin, je comprends pas…
+ARTHUR (admiratif) — Le plus étonnant, c’est que ça peut durer jusqu'a ce soir, elle se fatigue jamais.
+YGERNE — Ne commencez pas à vous en prendre à votre tante !
+CRYDA — Quand je pense à tout ce qu’on a fait pour lui…
+ARTHUR — Question de point de vue… Parce que de six à vingt ans en camp militaire romain, j’ai pas
+dû vous coûter bien cher en pâte à crêpe !
+YGERNE (à sa sœur) — C’est magnifique, la gratitude filiale.
+CRYDA — Et les Clans ? Vous croyez peut-être que vous auriez rallié tous les Chefs de Clan si on
+n’avait pas travaillé comme des forcenées ? Je peux vous dire qu’il y en a eu des tartes aux prunes et
+des compotes de figues avant que ces gros imbéciles ne vous considèrent comme Roi !
+ARTHUR — Ils ont pas à me considérer, je suis Roi parce que c’est les Romains qui m’ont collé Roi,
+c’est tout ! Et je parle pas d’Excalibur !
+YGERNE — Et pourquoi ils vous ont collé Roi ?
+ARTHUR — Parce que j’ai été élevé chez eux !
+CRYDA — Et grâce à qui ?
+   ARTHUR déchausse une de ses bottes et pose son pied sur la table.
+LÉODAGAN — Qu’est-ce qui vous prend ?
+ARTHUR — Vous voyez les marques sous le pied, là ? Il y a marqué « S. P. Q. R. ». Un bizutage au fer
+rouge pour fêter mon arrivée au camp d’entraînement. Je suis désolé, c’est pas très lisible ; comme
+j’avais six ans et demi, le pied a grandi, depuis.
+   YGERNE et CRYDA se regardent, gênées.
+CRYDA — On pouvait pas garder un bâtard à la maison.
+YGERNE — C’est pour vous protéger qu’on vous a envoyé à Rome…
+CRYDA — Sinon, c’est peut-être Uther lui-même qui vous aurait tué.
+   Un long silence s'installe.
+YVAIN — Je peux avoir du raisin de table ?
+
+                                                                                        FERMETURE
+
+
+3. INT. SALLE À MANGER – JOUR
+
+   La conversation a repris de plus belle.
+YGERNE (simplement, avec courtoisie) — Ce que votre tante vous explique, c’est que vous êtes un
+mauvais fils.
+CRYDA — Et un mauvais neveu. C’est tout, c’est pas la peine d’en faire une maladie !
+YVAIN (jovial) — C’est marrant, moi aussi, je suis un mauvais fils !
+LÉODAGAN — La ferme.
+GUENIÈVRE (à Arthur) — Je suis époustouflée par votre calme.
+ARTHUR (modeste) — Ah bah, je l’ai bossé, hein ! Ça vient pas tout seul !
+SÉLI — Eh ben moi, Dame Cryda, permettez-moi de vous dire que je vous trouve très sympathique.
+CRYDA — Moi aussi, ma petite. (En confidence) On m’avait fait de vous un portrait parlé.
+
+                                                                                                 NOIR
+
+CRYDA (OVER) — J’ai tout de suite su qu’on s’entendrait.
+                                                  19
+                                           L’IVRESSE II
+                                               A. ASTIER
+
+                                                                                                3 CORS
+
+
+1. INT. TAVERNE – JOUR
+
+   ARTHUR et LANCELOT, incognito, boivent une coupe à la taverne.
+ARTHUR — Vous faites la gueule ou pas ?
+LANCELOT (sombre) — Mais non.
+ARTHUR — Si vous supportez vraiment plus ma tronche, vous pouvez me le dire franchement, vous
+savez !
+LANCELOT — Mais tout va bien !
+ARTHUR — Ah oui, ça a l’air ! Sans blague, j’ai l’impression d’être avec ma femme. Tiens, vous iriez
+bien ensemble, tous les deux !
+   LANCELOT lance un regard furieux à ARTHUR et finit sa coupe cul sec.
+
+                                                                                          OUVERTURE
+
+
+2. INT. TAVERNE – JOUR
+
+   ARTHUR et LANCELOT, prenant garde à ne pas trop hausser la voix, continuent leur
+   conversation.
+LANCELOT (réprobateur) — Vous croyez qu’on peut y aller, maintenant ?
+ARTHUR — Deux secondes, j’ai les pieds gelés.
+LANCELOT — Moi, je dis ça pour vous ! Paraît qu’il faut pas se faire remarquer… Que les Chevaliers au
+bistrot, ça fait pas noble.
+ARTHUR — Oui mais j’ai les pieds gelés. Alors vous me lâchez et vous attendez que je me réchauffe.
+   LANCELOT boit.
+LANCELOT — Dans l'état où elle est, la noblesse des Chevaliers, je vois vraiment pas de quoi se faire de
+la bile ! (désignant une table voisine) Les réunions de la Table Ronde, vous pouvez les faire là, avec un
+orchestre et des danseuses à poil, ça va gêner personne !
+ARTHUR — Je me demande bien ce que ça peut vous foutre ! Vous n’y mettez plus les pieds à la Table
+Ronde !
+LANCELOT — J’ai pas de temps à perdre avec des amateurs.
+ARTHUR — Ah bon. Vous préférez chercher le Graal dans votre coin ?
+LANCELOT — Peut-être.
+ARTHUR — Et sans indiscrétion, qu’est-ce que ça donne ? Vous touchez au but ?
+   LANCELOT hausse les épaules.
+ARTHUR — Et les séances de méditation dans votre cabane en forêt, ça avance ? Vous êtes en train de
+nous trouver une solution ?
+LANCELOT — J’ai pas dit que je cherchais.
+ARTHUR — Venez pas vous prendre pour un caïd. Le Graal, la noblesse, la Chevalerie… ça vous passe
+sous le nez, comme aux autres !
+LANCELOT (soudain très fort) — Sauf que moi, j’en suis digne !
+
+
+3. EXT. FORÊT – JOUR
+
+   LANCELOT et ARTHUR ont chacun leur bouteille à la main. Ils se sont enivré sans s'en apercevoir.
+   Il marchent à bonne distance l’un de l’autre, LANCELOT en tête. Il continuent de boire.
+ARTHUR — Mais moi aussi, j’en suis digne ! Un par un, c’est sûr, c’est facile d’être digne ! La
+difficulté, c’est justement de mettre tous les clampins au niveau !
+LANCELOT — Mais parce que vous y croyez encore, à ça ?
+ARTHUR — Ah bah, c’est comme ça. (désignant le ciel) Apporter la lumière, c’est pour que tout le
+monde y voie ! Si c’est juste pour ma tronche, je vois pas l’intérêt.
+LANCELOT — Hé, on n’est pas tous au même niveau, quand même ! Il y a les élus et puis il y a les
+autres !
+ARTHUR — Ah bon ? Et vous faites partie desquels, vous ?
+4. EXT. CAMPEMENT EN FORÊT – SOIR
+
+   ARTHUR et LANCELOT sont ivres. Ils continuent de boire.
+LANCELOT — Vous allez quand même pas me comparer aux autres débiles ?
+ARTHUR — Non mais entre un débile et un être élu, il y a un monde ! Il faut pas exagérer !
+LANCELOT — Quand je dis « être élu », c’est une façon de parler !
+ARTHUR — Si vous aviez la visite de la Dame du Lac trois fois par semaine vous comprendriez que c’est
+pas une façon de parler !
+LANCELOT — Ouais enfin la Dame du Lac…
+ARTHUR — Quoi « la Dame du Lac » ?
+LANCELOT — On la voit jamais !
+ARTHUR — Ah non, vous allez pas vous y mettre vous aussi !
+LANCELOT — C’est facile, hein ! À ce compte-là, moi aussi, je suis élu !
+ARTHUR — Et Excalibur ? C’est de la merde peut-être ?
+LANCELOT — Coup de bol !
+   ARTHUR s’approche de LANCELOT avec violence.
+ARTHUR — Ah, c’est ça ? On en est là ? Vous reniez tout du début à la fin ?
+LANCELOT (honteux, baissant les yeux) — Je suis fatigué…
+ARTHUR — Ben et moi ? Je suis pas fatigué, peut-être ? Depuis que vous m’avez lâché, c’est deux fois
+plus dur !
+LANCELOT — Je vous ai pas lâché…
+   Les deux hommes, aidés par l’alcool, s’émeuvent jusqu’aux larmes.
+ARTHUR — Mais vous avez pas le droit de vous décourager ! Un Chevalier, ça se décourage pas !
+LANCELOT — De temps en temps, j’ai besoin de voir la lumière, un petit peu ! Je suis pas une
+machine !
+   ARTHUR s’approche de LANCELOT.
+ARTHUR — Je vais vous montrer un truc que j’ai jamais montré à personne. Je vous le montre parce
+que vous êtes un frère pour moi.
+   Il dégaine Excalibur.
+ARTHUR — Excalibur, l’épée des Rois.
+LANCELOT — Je sais.
+ARTHUR — Est-ce que vous savez qu'elle revient toujours à l'élu, où qu’elle soit ?
+LANCELOT — C'est la légende…
+ARTHUR — Non, c’est pas la légende.
+   Il jette Excalibur le plus loin qu'il peut. L’épée, virevoltant dans les a

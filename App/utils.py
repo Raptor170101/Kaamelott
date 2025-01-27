@@ -148,7 +148,7 @@ def create_questions_Générales(num_questions):
     openai.api_key = api_key
 
     random_chunk = random.randint(1, 101)
-    with open(f"C:/Users/theof/vsc/Kaamelott/App/chunk/{random_chunk}.txt", "r", encoding="utf-8") as file:
+    with open(f"App/chunk/{random_chunk}.txt", "r", encoding="utf-8") as file:
         file_content = file.read()
 
 

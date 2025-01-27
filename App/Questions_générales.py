@@ -3,7 +3,7 @@ from App.utils import create_questions_Générales, load_css
 
 def display_questions_générales () :
 
-    load_css("C:/Users/theof/vsc/Kaamelott/App/Style.css")
+    load_css("App/Style.css")
 
     if  "questions" not in st.session_state :
             num_questions = st.session_state.get("num_questions", 10)  # Récupérer le nombre de questions

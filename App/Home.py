@@ -1,5 +1,5 @@
 import streamlit as st
-from App.utils import load_css
+from App.utils import load_css, texte_information
 
 def display_home_page():
     """
@@ -12,6 +12,10 @@ def display_home_page():
     st.title("Bienvenue sur le Quiz Kaamelott")
     st.write("Choisissez votre style de quiz et définissez vos préférences pour commencer !")
 
+
+    with st.expander("Informations", expanded=False):
+     texte_information()
+     
     # Sélection du style de quiz
     st.subheader("Style de quiz")
     quiz_style = st.radio(
@@ -19,7 +23,6 @@ def display_home_page():
         ("Questions générales", "Citations"),
         key="quiz_style"
     )
-
 
     if quiz_style == "Citations":
           # Sélection du niveau de difficulté

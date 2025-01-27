@@ -5,7 +5,7 @@ def display_home_page():
     """
     Affiche la page d'accueil de l'application Quiz.
     """
-    load_css("C:/Users/theof/vsc/Kaamelott/App/Style.css")
+    load_css("App/Style.css")
 
     st.image("C:/Users/theof/vsc/Kaamelott/App/Utils/Kaamelott.png")
 

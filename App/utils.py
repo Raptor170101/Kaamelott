@@ -240,13 +240,12 @@ Bien que cela ne devrait pas être fréquent, il peut arriver qu’une réponse 
 ### 2. Les Citations
 
 - **Le concept :**  
-Une réplique culte de Kaamelott vous est proposée, et vous devez deviner quel personnage l’a prononcée.
-
+À chaque lancement de quiz, un nombre aléatoire de répliques est sélectionné parmi un immense répertoire de citations cultes de Kaamelott(dépendamment du niveau de difficulté choisi). Votre objectif ? Deviner quel personnage a prononcé chacune d’entre elles.
 #### **Les niveaux de difficulté :**
 - **Facile :**  
-Seules les répliques les plus célèbres.
+Uniquement les répliques les plus emblématiques.
 - **Moyen :**  
-Toutes les répliques des livres 1 à 3.
+Les répliques sont tirées au hasard dans l'entierté du livre 1 à 3.
 - **Difficile :**  
 Même contenu que le niveau moyen, mais avec un twist :  
 Les propositions incluent uniquement des personnages ayant des répliques similaires, rendant le choix plus complexe !

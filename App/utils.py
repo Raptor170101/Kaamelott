@@ -81,6 +81,46 @@ def generate_question_citations_difficiles(data):
     return {"phrase": phrase, "options": options, "correct_answer": correct_answer}
 
 
+def generate_question_citations_difficiles_test(data, weights_data):
+    # Sélectionner une phrase et la bonne réponse
+    question = data.sample(1).iloc[0]
+    phrase = question['Réplique']
+    correct_answer = question['Personnage']
+
+    # Charger la matrice de similarité
+    perso_similaire = pd.read_csv("App/Utils/Similarité_entre_Personnages.csv", index_col=0)
+
+    # Vérifier que correct_answer est dans la matrice
+    if correct_answer not in perso_similaire.columns:
+        raise ValueError(f"Le personnage '{correct_answer}' n'est pas dans la matrice de similarité.")
+
+    # Trouver les 10 personnages les plus similaires
+    similar_personnages = (
+        perso_similaire[correct_answer]  # Récupérer la colonne des similarités
+        .drop(index=correct_answer)      # Exclure le personnage correct
+        .nlargest(15)                    # Garder les 10 plus similaires
+        .index.tolist()                  # Obtenir leurs noms
+    )
+
+    # Filtrer les poids pour ne garder que les personnages similaires
+    filtered_weights = weights_data[weights_data['Personnage'].isin(similar_personnages)].copy()
+
+    # Renormaliser les poids pour qu'ils s'additionnent à 1
+    filtered_weights['Poids'] /= filtered_weights['Poids'].sum()
+
+    # Sélectionner 3 mauvaises options en utilisant un échantillonnage pondéré
+    wrong_options = filtered_weights.sample(n=3, weights='Poids')['Personnage'].tolist()
+
+    # Construire les options
+    options = wrong_options + [correct_answer]
+    random.shuffle(options)
+
+    # Retourner la question sous forme de dictionnaire
+    return {"phrase": phrase, "options": options, "correct_answer": correct_answer}
+
+
+
+
 def generate_all_questions(num_questions, data, perso):
     questions = []
     for _ in range(num_questions):
@@ -123,6 +163,7 @@ def create_questions_Générales(num_questions):
     f"Les thèmes à utiliser sont : {', '.join(selected_themes)}.\n\n"
     "sois particulièrement attentif à ce que les questions que tu créer soient intéressantes pour un fan de Kaamelott\n"
     "Il faut donc que les questions portent sur des chose remarquables de l'histoire ou des détails intéressants"
+    "Utilise les mêmes terme que dans le texte lors que tu le peux."
     "Donne du contexte aux questions si tu juges que qu'il est nécessaire pour pouvoir répondre correctement"
     "Donne toujours le nom de l'épisode auquel la question fait référence et essai d'avoir le moins de questions possibles portant sur le même épisode"
     "Fait également attention à ce qu'il n'y ai qu'une seule réponse correct"
@@ -177,4 +218,40 @@ def create_questions_Générales(num_questions):
     
     return question
 
+def texte_information():
+    st.markdown("""
 
+**plongez dans l'univers de Kaamelott et de défiez vos connaissances ?**  
+
+### 1. Les Questions Générales
+
+- **Le concept :**  
+Répondez à des questions sur Kaamelott en choisissant la bonne réponse parmi 4 propositions.
+
+- **Particularité :**  
+Les questions sont générées par ChatGPT en se basant sur une partie précise du script de la série.  
+Il est donc possible que certaines questions portent sur le même épisode dans un même quiz. 
+
+- **Attention aux erreurs :**  
+Bien que cela ne devrait pas être fréquent, il peut arriver qu’une réponse soit incorrecte. Si une réponse vous semble étrange, vous pourriez avoir raison : n’hésitez pas à vérifier par vous-même !
+
+---
+
+### 2. Les Citations
+
+- **Le concept :**  
+Une réplique culte de Kaamelott vous est proposée, et vous devez deviner quel personnage l’a prononcée.
+
+#### **Les niveaux de difficulté :**
+- **Facile :**  
+Seules les répliques les plus célèbres.
+- **Moyen :**  
+Toutes les répliques des livres 1 à 3.
+- **Difficile :**  
+Même contenu que le niveau moyen, mais avec un twist :  
+Les propositions incluent uniquement des personnages ayant des répliques similaires, rendant le choix plus complexe !
+
+---
+
+**Prêt à relever le défi ? Créez un quiz et replongez dans l’univers extraordinaire de Kaamelott !**
+""")

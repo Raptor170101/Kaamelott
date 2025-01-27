@@ -39,39 +39,48 @@ def display_citations_faciles():
 
         # Afficher la phrase
         st.subheader(f"Question {st.session_state.current_question_index + 1}/{len(st.session_state.questions)}")
-        st.text_area("", current_question["phrase"], disabled=True, key="citations_faciles")
+        st.text_area("Citation", current_question["phrase"], label_visibility="hidden", disabled=True, key="citations_faciles")
 
         # Afficher les options
         selected_option = st.radio("Choisissez le personnage :", current_question["options"])
 
+        if "bouton_repondre" not in st.session_state:
+            st.session_state.bouton_repondre = True
+
         # Bouton pour valider la réponse
-        if st.button("Répondre"):
-            if selected_option:
-                # Vérifier la réponse
-                if selected_option == current_question["correct_answer"]:
-                    st.session_state.feedback = "Bonne réponse ! 🎉"
-                    st.session_state.score += 1
-                    st.session_state.results.append(
-                        {"question": current_question["phrase"], "status": "Correct"}
-                    )
+        if st.session_state.bouton_repondre == True :
+            if st.button("Répondre"):
+                if selected_option:
+                    st.session_state.bouton_repondre = False
+                    # Vérifier la réponse
+                    if selected_option == current_question["correct_answer"]:
+                        st.session_state.feedback = "Bonne réponse ! 🎉"
+                        st.session_state.score += 1
+                        st.session_state.results.append(
+                            {"question": current_question["phrase"], "status": "Correct"}
+                        )
+                        st.session_state.show_feedback = True
+                        st.rerun()
+                    else:
+                        st.session_state.feedback = f"Faux ! La bonne réponse était : {current_question['correct_answer']}."
+                        st.session_state.results.append(
+                            {"question": current_question["phrase"], "status": "Incorrect"}
+                        )
+                    st.session_state.show_feedback = True
+                    st.rerun()
                 else:
-                    st.session_state.feedback = f"Faux ! La bonne réponse était : {current_question['correct_answer']}."
-                    st.session_state.results.append(
-                        {"question": current_question["phrase"], "status": "Incorrect"}
-                    )
-                st.session_state.show_feedback = True
-            else:
-                st.warning("Veuillez sélectionner une option avant de valider.")
+                    st.warning("Veuillez sélectionner une option avant de valider.")
 
         # Afficher le feedback uniquement après validation
         if st.session_state.show_feedback:
-            st.text_area("", st.session_state.feedback, disabled=True, key="reponses_citations_faciles")
+            st.text_area("Réponse", st.session_state.feedback, disabled=True, label_visibility="hidden", key="reponses_citations_faciles")
 
         # Bouton pour passer à la question suivante
         if st.session_state.show_feedback and st.button("Question suivante"):
             st.session_state.current_question_index += 1
             st.session_state.feedback = ""
             st.session_state.show_feedback = False
+            st.session_state.bouton_repondre = True
             st.rerun()
     else:
         # Affichage des résultats finaux

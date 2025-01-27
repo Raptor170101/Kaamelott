@@ -7,7 +7,7 @@ def display_home_page():
     """
     load_css("App/Style.css")
 
-    st.image("C:/Users/theof/vsc/Kaamelott/App/Utils/Kaamelott.png")
+    st.image("App/Utils/Kaamelott.png")
 
     st.title("Bienvenue sur le Quiz Kaamelott")
     st.write("Choisissez votre style de quiz et définissez vos préférences pour commencer !")

@@ -20,7 +20,7 @@ def display_questions_générales () :
             st.session_state.questions = create_questions_Générales(num_questions)
 
 
-    st.image("C:/Users/theof/vsc/Kaamelott/App/Utils/Kaamelott.png")
+    st.image("App/Utils/Kaamelott.png")
     
     st.session_state.finish = False
 

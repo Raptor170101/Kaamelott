@@ -8,9 +8,9 @@ def display_citations_difficiles():
     Affiche la logique du quiz pour le type Citations et le niveau Moyen.
     """
 
-    load_css("C:/Users/theof/vsc/Kaamelott/App/Style.css")
+    load_css("App/Style.css")
    
-    st.image("C:/Users/theof/vsc/Kaamelott/App/Utils/Kaamelott.png")
+    st.image("App/Utils/Kaamelott.png")
     
     data = load_data_citations_difficiles("App/Utils/Kaamelott_Repliques_Livres1_à_3.csv")
     info_poids = pd.read_csv("App/Utils/Personnages_pondéré_moyen.csv")

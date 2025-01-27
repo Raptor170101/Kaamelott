@@ -1431,19 +1431,19 @@ PERCEVAL,Parce que vous allez voir qu’il va encore trouver que je lambine !
 ARTHUR,Vous oubliez pas que c’est demain que ma mère arrive ?
 GUENIÈVRE,Ça fait quinze fois que vous me le répétez. Arrêtez de vous inquiéter : tout est prêt pour la recevoir.
 ARTHUR,Mais je m’inquiète pas…
-YGERNE,Vous n’avez pas peur que ça fasse un peu tape-à-l’œil ?
+YGERNE DE TINTAGEL,Vous n’avez pas peur que ça fasse un peu tape-à-l’œil ?
 ARTHUR,Tape-à-l’œil ? Je sais pas… Vous trouvez ça vulgaire ?
-YGERNE,Tout ça est beaucoup trop riche pour moi.
-YGERNE,Et c’est engorgé de sauce et de vin romain que vous menez vos hommes au front ?
+YGERNE DE TINTAGEL,Tout ça est beaucoup trop riche pour moi.
+YGERNE DE TINTAGEL,Et c’est engorgé de sauce et de vin romain que vous menez vos hommes au front ?
 GUENIÈVRE,On lui fait préparer des petites galettes d’avoine qu’il emporte dans son barda.
-YGERNE,Au cas où il aurait une petite faim-faim ?
-YGERNE,C’est pas moi qui l’ai élevé. Ça se voit…
+YGERNE DE TINTAGEL,Au cas où il aurait une petite faim-faim ?
+YGERNE DE TINTAGEL,C’est pas moi qui l’ai élevé. Ça se voit…
 ARTHUR,J’ai pas connu.
-YGERNE,Ça se voit.
-YGERNE,Un fermier.
-YGERNE,Un Chevalier-fermier ?
+YGERNE DE TINTAGEL,Ça se voit.
+YGERNE DE TINTAGEL,Un fermier.
+YGERNE DE TINTAGEL,Un Chevalier-fermier ?
 GUENIÈVRE,Ça vous plaît pas ? Vous voulez que je vous fasse préparer autre chose ?
-YGERNE,Et vous vous laissez parler comme ça ? Du temps de Pendragon…
+YGERNE DE TINTAGEL,Et vous vous laissez parler comme ça ? Du temps de Pendragon…
 GUENIÈVRE,Vous avez pas envie de parler ?
 GUENIÈVRE,Je pensais à votre mère…
 ARTHUR,Eh ben ?
@@ -1809,9 +1809,9 @@ PERCEVAL,C’est pas clair.
 PERCEVAL,Bah non.
 KARADOC,Et voilà. Mission accomplie.
 DAME SÉLI,Qu’est-ce que vous avez ? Ça va pas ?
-YGERNE,Ça s’appelle le calme.
+YGERNE DE TINTAGEL,Ça s’appelle le calme.
 DAME SÉLI,On est entre femmes. Vous n’avez pas remarqué que personne ne hurle ou ne casse les verres ?
-YGERNE,Il m’a jamais séduite.
+YGERNE DE TINTAGEL,Il m’a jamais séduite.
 DAME SÉLI,Vous connaissez pas l’histoire ?
 GUENIÈVRE,Ah non.
 GUENIÈVRE,Mais… comment ça « le transformer » ?
@@ -1870,30 +1870,30 @@ LÉODAGAN,Fêter qui ?
 DAME SÉLI,Saint Jean – c’est un évangéliste ou je sais pas quoi – il faut faire des feux.
 LÉODAGAN,Des feux ?
 DAME SÉLI,Voilà. Des grands feux. Les feux de la Saint-Jean.
-YGERNE,Vous n’êtes pas censé recevoir les doléances de votre peuple ?
-YGERNE,Vous n’avez jamais le temps de parler !
+YGERNE DE TINTAGEL,Vous n’êtes pas censé recevoir les doléances de votre peuple ?
+YGERNE DE TINTAGEL,Vous n’avez jamais le temps de parler !
 ARTHUR,Mais parler de quoi ?
-YGERNE,Dois-je comprendre que vous déclinez ma requête ?
+YGERNE DE TINTAGEL,Dois-je comprendre que vous déclinez ma requête ?
 ARTHUR,Mais c’est pas que je décline…
 LÉODAGAN,Disons que c’est pas assez officiel.
-YGERNE,Je sens que vous ne m’écoutez que d’une oreille !
+YGERNE DE TINTAGEL,Je sens que vous ne m’écoutez que d’une oreille !
 ARTHUR,Mais pas du tout !
-YGERNE,Si ! Je vous connais quand vous faites cette tête-là !
+YGERNE DE TINTAGEL,Si ! Je vous connais quand vous faites cette tête-là !
 ARTHUR,Je fais cette tête-là parce que je sais très bien ce que vous allez me demander.
 ARTHUR,Mais c’est évident… La fin de l’automne approche – comme par hasard – ça va. Pas besoin de me faire un dessin.
 LÉODAGAN,Et alors ?
-YGERNE,Je n’ai jamais dit que j’étais venue pour ça !
+YGERNE DE TINTAGEL,Je n’ai jamais dit que j’étais venue pour ça !
 ARTHUR,Mais si ! Ne me prenez pas pour une truffe ! Vous êtes venue me casser les sabots pour que j’aille à votre saloperie de fête !
-YGERNE,Absolument pas !
+YGERNE DE TINTAGEL,Absolument pas !
 LÉODAGAN,Et pourquoi vous y allez jamais ? ARTHUR — Parce que ça me gonfle.
-YGERNE,Il aime pas sa tante.
+YGERNE DE TINTAGEL,Il aime pas sa tante.
 LÉODAGAN,Quoi ?
 LÉODAGAN,Bon ben… Je suis désolé mais ça à l’air d’être « non ».
-YGERNE,Je viens officiellement adresser au Roi Arthur de Bretagne une invitation du peuple de
+YGERNE DE TINTAGEL,Je viens officiellement adresser au Roi Arthur de Bretagne une invitation du peuple de
 ARTHUR,J’en ai rien à carrer.
-YGERNE,Le peuple de Tintagel est courroucé de ce refus.
+YGERNE DE TINTAGEL,Le peuple de Tintagel est courroucé de ce refus.
 ARTHUR,Eh bah tant pis pour sa tronche !
-YGERNE,Le peuple de Tintagel exige des excuses immédiates de la part du Souverain breton !
+YGERNE DE TINTAGEL,Le peuple de Tintagel exige des excuses immédiates de la part du Souverain breton !
 LÉODAGAN,De qui ?
 DAME SÉLI,Il faudrait que vous vous déguisiez en saint Nicolas pour distribuer des friandises aux mômes.
 LÉODAGAN,Déguisé en qui ?
@@ -3065,16 +3065,16 @@ ARTHUR,J’ai peur de rien du tout.
 ARTHUR,Ouais mais à part ça…
 GUENIÈVRE,Non mais dites donc !
 ARTHUR,Vous avez fait bon voyage ?
-YGERNE,Ça vous intéresse vraiment de savoir si j’ai fait bon voyage ?
-YGERNE,Ne soyez pas grossier !
+YGERNE DE TINTAGEL,Ça vous intéresse vraiment de savoir si j’ai fait bon voyage ?
+YGERNE DE TINTAGEL,Ne soyez pas grossier !
 ARTHUR,Sans déconner ? Même pas vous ?
-YGERNE,Même pas moi.
-YGERNE,Bien plus que vous ne pouvez l’imaginer.
+YGERNE DE TINTAGEL,Même pas moi.
+YGERNE DE TINTAGEL,Bien plus que vous ne pouvez l’imaginer.
 ARTHUR,Comment ? Qu’est-ce que vous avez dit ?
-YGERNE,Vous avez mis fin à ces coutumes misogynes et c’est une chose qui doit être portée à votre crédit.
+YGERNE DE TINTAGEL,Vous avez mis fin à ces coutumes misogynes et c’est une chose qui doit être portée à votre crédit.
 ARTHUR,Ah ! Vous voulez que je donne du blé !
 ARTHUR,Elle vous présente la compote.
-YGERNE,Qu’est-ce que vous avez à sourire ?
+YGERNE DE TINTAGEL,Qu’est-ce que vous avez à sourire ?
 ARTHUR,Non mais quand c’est demandé gentiment…
 ARTHUR,Je vous demande pardon…
 GUENIÈVRE,Vous avez pas laissé tomber ?
@@ -3174,18 +3174,18 @@ ARTHUR,Tout à fait. Je vais déjà retirer mon heaume.
 LÉODAGAN,Quel heaume ?
 LANCELOT,Une solution à base de soufre à diluer dans l’eau chaude et à respirer.
 LÉODAGAN,Des promenades ?
-YGERNE,Arthur ! J’ai dit un quart d’heure !
-YGERNE,C’est moi qui dis quand ça pique. C’est ça ou je vous ramène chez moi à Tintagel et vous y restez jusqu’aux premiers pollens.
-YGERNE,Je suis venue avec Dame Clodoric.
+YGERNE DE TINTAGEL,Arthur ! J’ai dit un quart d’heure !
+YGERNE DE TINTAGEL,C’est moi qui dis quand ça pique. C’est ça ou je vous ramène chez moi à Tintagel et vous y restez jusqu’aux premiers pollens.
+YGERNE DE TINTAGEL,Je suis venue avec Dame Clodoric.
 ARTHUR,Vous êtes venue avec sa femme ?
 ARTHUR,Maintenant que vous le dites…
 LANCELOT,Il fait cinq pieds de haut et doit peser ses cinq cents livres.
-YGERNE,Ça prouve qu’il a fini par écouter sa mère.
+YGERNE DE TINTAGEL,Ça prouve qu’il a fini par écouter sa mère.
 LÉODAGAN,Ça va mieux ?
 LANCELOT,Comment savez-vous que les Barbares ne bougeront pas ?
-YGERNE,Ils vous ont envoyé des signaux ?
+YGERNE DE TINTAGEL,Ils vous ont envoyé des signaux ?
 LÉODAGAN,Quels genres de signaux ?
-YGERNE,Ça voudra dire que Dame Clodoric m’informe qu’elle autorise son barbare de fils à sortir se battre.
+YGERNE DE TINTAGEL,Ça voudra dire que Dame Clodoric m’informe qu’elle autorise son barbare de fils à sortir se battre.
 LÉODAGAN,Avec des tartines ?
 ARTHUR,Mais qu’est-ce que c’est que ce picrate ?
 DAME SÉLI,On a changé de fournisseur.
@@ -3356,18 +3356,18 @@ VENEC,Devant les Dieux ?
 GUENIÈVRE,Si j’y tiens ? Un cadeau de mon père pour mes dix ans. Il paraît qu’il vaut une fortune.
 ARTHUR,Ah oui. (tendant une coupe à Séli) Buvons le vin de la fraternité.
 ARTHUR,Qu’est-ce qui se passe ? Qu’est-ce que j’ai dit ?
-YGERNE,Évitez de m’appeler « maman ».
+YGERNE DE TINTAGEL,Évitez de m’appeler « maman ».
 DAME SÉLI,Et moi « belle-maman » ! Ah non mais il y a vraiment des jours où vous déconnez sec !
-YGERNE,Et si on n’est pas d’accord ?
+YGERNE DE TINTAGEL,Et si on n’est pas d’accord ?
 ARTHUR,Mais vous êtes d’accord !
-YGERNE,Je proteste contre cette honteuse manipulation !
+YGERNE DE TINTAGEL,Je proteste contre cette honteuse manipulation !
 DAME SÉLI,Pareil !
 DAME SÉLI,Et nos chevaux ! Qu’est-ce qu’ils vont bouffer si j’ai plus un carré d’herbe ?
-YGERNE,Vous les mettrez dans vos champs de cailloux ! Ça leur fera du calcium !
+YGERNE DE TINTAGEL,Vous les mettrez dans vos champs de cailloux ! Ça leur fera du calcium !
 DAME SÉLI,C’est ça ! Exactement ! La partie moche ! Estimez-vous déjà heureux de recevoir quelque chose !
 DAME SÉLI,On revient sur notre décision !
 ARTHUR,Vous vous mettez en guerre pendant deux ou trois cents ans et on verra après.
-YGERNE,Qu’est-ce qu’on fait ? On reste en guerre ?
+YGERNE DE TINTAGEL,Qu’est-ce qu’on fait ? On reste en guerre ?
 DAME SÉLI,…on va tout droit vers une génération d’obèses…
 YVAIN,On vient vous rejoindre !
 GAUVAIN,Nous venons vous assister dans votre quête !
@@ -3948,15 +3948,15 @@ LÉODAGAN,Je sais plus quoi faire avec celui-là. Il va même plus aux entraîne
 LÉODAGAN,Parce que vous croyez que vous êtes un exemple !
 DAME SÉLI,Mais si !
 DAME SÉLI,Par les Romains ?
-YGERNE,Dites tout de suite que vous avez honte de votre éducation !
+YGERNE DE TINTAGEL,Dites tout de suite que vous avez honte de votre éducation !
 ARTHUR,Mais ça n’a rien à voir avec la honte !
 DAME SÉLI,N’empêche que vous vous êtes bien gardé de le dire à qui que ce soit !
 ARTHUR,Je peux pas raconter ça comme ça ! Vous voyez bien les réactions que ça suscite !
 DAME SÉLI,À n’importe qui sauf à un Romain.
 ARTHUR,Je suis pas romain.
-YGERNE,Ça vous pose un problème que mon fils ait suivi le cursus militaire le plus réputé du monde ?
+YGERNE DE TINTAGEL,Ça vous pose un problème que mon fils ait suivi le cursus militaire le plus réputé du monde ?
 ARTHUR,Ah non ! Il va pas aller brailler ça sur les toits !
-YGERNE,« Mon petit père » ? (à Arthur) Vous n’allez pas vous laisser parler comme ça !
+YGERNE DE TINTAGEL,« Mon petit père » ? (à Arthur) Vous n’allez pas vous laisser parler comme ça !
 ARTHUR,Mais je bosse pas pour Justinien ! Quel rapport ?
 ARTHUR,Je suis pas romain !
 DAME SÉLI,C’est pareil.
@@ -5248,31 +5248,31 @@ ATTILA,D’accord ! On la prend !
 ATTILA,Pas faire de cheval ? Pourquoi pas ?
 ATTILA,Elle vomit ?
 ARTHUR,Ouais. Vous la… Tu la prends quand même ?
-YGERNE,Parfaitement. Vous me prenez pour qui ?
-YGERNE,Je viens vous annoncer la visite officielle d’une importante personnalité de Tintagel.
+YGERNE DE TINTAGEL,Parfaitement. Vous me prenez pour qui ?
+YGERNE DE TINTAGEL,Je viens vous annoncer la visite officielle d’une importante personnalité de Tintagel.
 LÉODAGAN,Une visite diplomatique ?
-YGERNE,Exactement. Il s’agit de Dame Cryda…
+YGERNE DE TINTAGEL,Exactement. Il s’agit de Dame Cryda…
 ARTHUR,Ah ! C’est ma tante !
 LÉODAGAN,Celle que vous pouvez pas blairer ?
 LÉODAGAN,C’est diplomatique !
-YGERNE,C’est comme ça qu’on accueille sa tatie ?
+YGERNE DE TINTAGEL,C’est comme ça qu’on accueille sa tatie ?
 GUENIÈVRE,Fille de fermiers ?
 ARTHUR,Vous n’avez aucune chance.
 LÉODAGAN,La ferme.
 DAME SÉLI,Pourquoi ? Ils vous trouvent trop chiante ?
-YGERNE,Je vous rappelle qu’il s’agit de la belle-sœur d’Uther. Elle est habituée à d’autres prestiges pour les repas !
+YGERNE DE TINTAGEL,Je vous rappelle qu’il s’agit de la belle-sœur d’Uther. Elle est habituée à d’autres prestiges pour les repas !
 CRYDA,C’est sûr que c’était autre chose ! (nostalgique) La table du Roi !
 CRYDA,Le Bâtard ? Quand j'y pense… je crois que j’aimerais mieux être la tante d’un cochon pesteux.
 CRYDA,Pour faire parler les débiles.
-YGERNE,Ne commencez pas à vous en prendre à votre tante !
+YGERNE DE TINTAGEL,Ne commencez pas à vous en prendre à votre tante !
 CRYDA,Quand je pense à tout ce qu’on a fait pour lui…
 CRYDA,Et les Clans ? Vous croyez peut-être que vous auriez rallié tous les Chefs de Clan si on n’avait pas travaillé comme des forcenées ? Je peux vous dire qu’il y en a eu des tartes aux prunes et des compotes de figues avant que ces gros imbéciles ne vous considèrent comme Roi !
-YGERNE,Et pourquoi ils vous ont collé Roi ?
+YGERNE DE TINTAGEL,Et pourquoi ils vous ont collé Roi ?
 ARTHUR,Parce que j’ai été élevé chez eux !
 CRYDA,Et grâce à qui ?
 LÉODAGAN,Qu’est-ce qui vous prend ?
 CRYDA,On pouvait pas garder un bâtard à la maison.
-YGERNE,C’est pour vous protéger qu’on vous a envoyé à Rome…
+YGERNE DE TINTAGEL,C’est pour vous protéger qu’on vous a envoyé à Rome…
 YVAIN,Je peux avoir du raisin de table ?
 LÉODAGAN,La ferme.
 GUENIÈVRE,Je suis époustouflée par votre calme.
@@ -6138,7 +6138,7 @@ ARTHUR,Allez-y.
 BOHORT,« A-le-xan-dre trois de Ma-cé-doi-ne le Grand. » Ça fait douze pieds.
 LÉODAGAN,Vous croyez pas qu'on a autre chose à foutre ?
 LÉODAGAN,DE POMMIERS IL ME SEMBLE…
-YGERNE,Alors quoi ?
+YGERNE DE TINTAGEL,Alors quoi ?
 DAME SÉLI,On peut savoir ce que vous glandez ici à cette heure ?
 LÉODAGAN,Je viens boulotter un morceau ! Je vois pas ce que ça a de paranormal !
 DAME SÉLI,Arrêtez immédiatement de me prendre pour une truite ! Qu’est-ce que vous maquillez ?
@@ -6531,15 +6531,15 @@ GUENIÈVRE,C’est tout de même un peu vrai…
 ANGHARAD,Elle fait même peur à monsieur…
 GUENIÈVRE,Dommage que je sois obligée de rester… J’aurais volontiers passé quelques jours à la maison.
 DAME SÉLI,Ça prouve qu’il vous aime bien.
-YGERNE,Et sa belle-mère aussi.
-YGERNE,L’essieu de ma diligence est fendu. Il paraît que ce serait dangereux de partir. Vos ouvriers ont dit que ce serait réparé demain matin. Je reste.
-YGERNE,On va passer une petite soirée ensemble avec ma belle-fille. Entre femmes.
+YGERNE DE TINTAGEL,Et sa belle-mère aussi.
+YGERNE DE TINTAGEL,L’essieu de ma diligence est fendu. Il paraît que ce serait dangereux de partir. Vos ouvriers ont dit que ce serait réparé demain matin. Je reste.
+YGERNE DE TINTAGEL,On va passer une petite soirée ensemble avec ma belle-fille. Entre femmes.
 GUENIÈVRE,Ça vous ennuie si je me taille les veines ?
 GUENIÈVRE,C’est fantastique ! Vous pouvez arrêter ?
 GUENIÈVRE,Votre amant ?
-YGERNE,Pendragon.
+YGERNE DE TINTAGEL,Pendragon.
 GUENIÈVRE,Pendragon… le même Pendragon auquel je pense ?
-YGERNE,Il arrive…
+YGERNE DE TINTAGEL,Il arrive…
 PENDRAGON,Moi aussi.
 ARTHUR,Mais je vais vous égorger pour de bon !
 KARADOC,Vous êtes toute pâlotte. Vous devriez manger plus de sucre.
@@ -6734,19 +6734,19 @@ KARADOC,Quoi ?
 ARTHUR,On joue pas avec la nourriture.
 GUENIÈVRE,Je suis étonnée qu’il fasse déjà si frais en cette saison…
 ARTHUR,Mais vous voulez me parler de quoi ?
-YGERNE,En général ! Vous vous en sortez ?
+YGERNE DE TINTAGEL,En général ! Vous vous en sortez ?
 ARTHUR,Mon entourage ? Lequel ?
-YGERNE,Je trouve que les gens qui vous collent de près ne sont pas ceux qui vous soutiennent le plus. Cette belle-famille – au demeurant charmante – vit quand même parfaitement à vos crochets…
+YGERNE DE TINTAGEL,Je trouve que les gens qui vous collent de près ne sont pas ceux qui vous soutiennent le plus. Cette belle-famille – au demeurant charmante – vit quand même parfaitement à vos crochets…
 ARTHUR,« Au demeurant charmante » ? Ma belle-famille ? Vous êtes sûre que vous couvez pas quelque chose ?
-YGERNE,Pourquoi ne vous rapprochez-vous pas un peu de vos racines ? Des gens de votre sang ?
-YGERNE,Tiens ! J’y pense ! C’est la Fête de l’Hiver dans une semaine ! Profitez-en pour passer quelques jours !
+YGERNE DE TINTAGEL,Pourquoi ne vous rapprochez-vous pas un peu de vos racines ? Des gens de votre sang ?
+YGERNE DE TINTAGEL,Tiens ! J’y pense ! C’est la Fête de l’Hiver dans une semaine ! Profitez-en pour passer quelques jours !
 ARTHUR,J’en étais sûr que vous alliez me regonfler avec votre fête pourrie ! Combien de fois il faut vous dire que j’y foutrai pas les pieds !
-YGERNE,Arthur ! Ne soyez pas borné !
+YGERNE DE TINTAGEL,Arthur ! Ne soyez pas borné !
 ARTHUR,Vous n’avez rien à faire ici !
 ARTHUR,Les belles choses de mon pays natal…
 LÉODAGAN,Vous m’entendez ou pas ?
-YGERNE,C’est une femme qui a beaucoup souffert !
-YGERNE,Une seconde ! (plus calme) J’ai un message du conseil des Anciens de Tintagel à adresser au gouvernement de Kaamelott.
+YGERNE DE TINTAGEL,C’est une femme qui a beaucoup souffert !
+YGERNE DE TINTAGEL,Une seconde ! (plus calme) J’ai un message du conseil des Anciens de Tintagel à adresser au gouvernement de Kaamelott.
 LÉODAGAN,Hop ! Ça suffit ! (à Ygerne) On vous écoute.
 ARTHUR,Je veux pas y aller.
 ARTHUR,Je veux pas y aller.

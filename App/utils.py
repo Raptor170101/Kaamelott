@@ -7,23 +7,6 @@ import openai
 import os
 
 
-def load_data_citations_faciles(file_path1, file_path2):
-    """
-    Charge les données à partir d'un fichier CSV et retourne les données et les personnages uniques.
-    """
-    data = pd.read_csv(file_path1)
-    perso = pd.read_csv(file_path2)
-    return data, perso
-
-
-def load_data_citations_moyennes_difficiles(file_path1, file_path2):
-    """
-    Charge les données à partir d'un fichier CSV et retourne les données et les personnages uniques.
-    """
-    data = pd.read_csv(file_path1)
-    perso = pd.read_csv(file_path2)
-    return data, perso
-
 
 def load_data_citations_difficiles(file_path1):
     """
@@ -34,61 +17,31 @@ def load_data_citations_difficiles(file_path1):
     return data 
 
 
-def generate_question_citations(data, perso):
+def generate_quote_question(data, characters):
     # Sélectionner une phrase et la bonne réponse
     question = data.sample(1).iloc[0]
-    phrase = question['Réplique']
+    quote = question['Réplique']
     correct_answer = question['Personnage']
 
     # Générer des mauvaises options
-    wrong_options = perso[perso['Personnage'] != correct_answer].sample(n=3, weights = "Poids")['Personnage'].tolist()
+    wrong_options = characters[characters['Personnage'] != correct_answer].sample(n=3, weights = "Poids")['Personnage'].tolist()
     options = wrong_options + [correct_answer]
     random.shuffle(options)
 
     # Retourner la question sous forme de dictionnaire
-    return {"phrase": phrase, "options": options, "correct_answer": correct_answer}
+    return {"phrase": quote, "options": options, "correct_answer": correct_answer}
 
 
-def generate_question_citations_difficiles(data):
+
+
+def generate_question_citations_difficiles(data, weights_data):
     # Sélectionner une phrase et la bonne réponse
     question = data.sample(1).iloc[0]
     phrase = question['Réplique']
     correct_answer = question['Personnage']
 
     # Charger la matrice de similarité
-    perso_similaire = pd.read_csv("App/Utils/Similarité_entre_Personnages.csv", index_col=0)
-
-    # Vérifier que correct_answer est dans la matrice
-    if correct_answer not in perso_similaire.columns:
-        raise ValueError(f"Le personnage '{correct_answer}' n'est pas dans la matrice de similarité.")
-
-    # Trouver les 10 personnages les plus similaires
-    similar_personnages = (
-        perso_similaire[correct_answer]  # Récupérer la colonne des similarités
-        .drop(index=correct_answer)      # Exclure le personnage correct
-        .nlargest(10)                    # Garder les 10 plus similaires
-        .index.tolist()                  # Obtenir leurs noms
-    )
-
-    # Sélectionner 3 mauvaises options parmi ces personnages similaires
-    wrong_options = random.sample(similar_personnages, 3)
-
-    # Ajouter la bonne réponse et mélanger
-    options = wrong_options + [correct_answer]
-    random.shuffle(options)
-
-    # Retourner la question sous forme de dictionnaire
-    return {"phrase": phrase, "options": options, "correct_answer": correct_answer}
-
-
-def generate_question_citations_difficiles_test(data, weights_data):
-    # Sélectionner une phrase et la bonne réponse
-    question = data.sample(1).iloc[0]
-    phrase = question['Réplique']
-    correct_answer = question['Personnage']
-
-    # Charger la matrice de similarité
-    perso_similaire = pd.read_csv("App/Utils/Similarité_entre_Personnages.csv", index_col=0)
+    perso_similaire = pd.read_csv("App/Utils/Characters_Similarity.csv", index_col=0)
 
     # Vérifier que correct_answer est dans la matrice
     if correct_answer not in perso_similaire.columns:
@@ -124,7 +77,7 @@ def generate_question_citations_difficiles_test(data, weights_data):
 def generate_all_questions(num_questions, data, perso):
     questions = []
     for _ in range(num_questions):
-        questions.append(generate_question_citations(data, perso))
+        questions.append(generate_quote_question(data, perso))
     return questions
 
 

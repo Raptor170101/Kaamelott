@@ -1,34 +1,39 @@
 import streamlit as st
 import random
-from App.utils import generate_question_citations, load_data_citations_faciles, load_css
+import pandas as pd
+from App.utils import generate_quote_question, load_css
 
 def display_citations_faciles():
+    
     """
-    Affiche la logique du quiz pour le type Citations et le niveau Moyen.
+    The Medium quotes page
     """
+
     load_css("App/Style.css")
+
+    quotes = pd.read_csv("App/Utils/Easy_Quotes.csv")
+
+    characters = pd.read_csv("App/Utils/Characters_Weighted_Easy.csv")
    
     st.image("App/Utils/Kaamelott.png")
 
-    data, perso = load_data_citations_faciles("App/Utils/Citation_faciles.csv", "App/Utils/Personnages_pondéré_faciles.csv")
 
-    # Initialisation des variables dans st.session_state
+    # Initialyse the variables if the quiz is generated for the first time
     if  "questions" not in st.session_state :
-            num_questions = st.session_state.get("num_questions", 10)  # Récupérer le nombre de questions
+            num_questions = st.session_state.get("num_questions", 10)  
             st.session_state.questions = [
-            generate_question_citations(data, perso) for _ in range(num_questions)
+            generate_quote_question(quotes, characters) for _ in range(num_questions)
             ]
             st.session_state.current_question_index = 0
-            st.session_state.feedback = ""
+            st.session_state.feedback = "" 
             st.session_state.show_feedback = False
             st.session_state.score = 0
             st.session_state.results = []
 
-
     if st.session_state.questions == []:
             num_questions = st.session_state.get("num_questions", 10)  # Récupérer le nombre de questions
             st.session_state.questions = [
-            generate_question_citations(data, perso) for _ in range(num_questions)
+            generate_quote_question(quotes, characters) for _ in range(num_questions)
             ]
 
   

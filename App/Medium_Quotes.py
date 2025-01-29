@@ -1,6 +1,7 @@
 import streamlit as st
 import random
-from App.utils import generate_question_citations, load_data_citations_moyennes_difficiles, load_css
+import pandas as pd
+from App.utils import generate_quote_question, load_css
 
 def display_citations_moyennes():
     """
@@ -8,14 +9,17 @@ def display_citations_moyennes():
     """
     load_css("App/Style.css")
     
+    quotes = pd.read_csv("App/Utils/Kaamelott_Quotes.csv")
+
+    characters = pd.read_csv("App/Utils/Characters_Weighted_Medium.csv")
+
     st.image("App/Utils/Kaamelott.png")
     
-    data, perso = load_data_citations_moyennes_difficiles("App/Utils/Kaamelott_Repliques_Livres1_à_3.csv", "App/Utils/Personnages_pondéré_moyen.csv")
 
     if  "questions" not in st.session_state :
             num_questions = st.session_state.get("num_questions", 10)  # Récupérer le nombre de questions
             st.session_state.questions = [
-            generate_question_citations(data, perso) for _ in range(num_questions)
+            generate_quote_question(quotes, characters) for _ in range(num_questions)
             ]
             st.session_state.current_question_index = 0
             st.session_state.feedback = ""
@@ -27,7 +31,7 @@ def display_citations_moyennes():
     if st.session_state.questions == []:
             num_questions = st.session_state.get("num_questions", 10)  # Récupérer le nombre de questions
             st.session_state.questions = [
-            generate_question_citations(data, perso) for _ in range(num_questions)
+            generate_quote_question(quotes, characters) for _ in range(num_questions)
             ]
 
 

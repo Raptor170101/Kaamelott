@@ -1,9 +1,9 @@
 import streamlit as st
 from App.Home import display_home_page
-from App.Citations_moyennes import display_citations_moyennes
-from App.Citations_faciles import display_citations_faciles
-from App.Citations_difficiles import display_citations_difficiles
-from App.Questions_générales import display_questions_générales
+from App.Medium_Quotes import display_citations_moyennes
+from App.Easy_Quotes import display_citations_faciles
+from App.Hard_Quotes import display_citations_difficiles
+from App.General_Questions import display_questions_générales
 
 
 

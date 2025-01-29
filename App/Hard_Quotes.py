@@ -1,25 +1,27 @@
 import streamlit as st
 import random
 import pandas as pd
-from App.utils import generate_question_citations_difficiles_test, load_data_citations_difficiles, load_css
+from App.utils import generate_question_citations_difficiles, load_css
 
 def display_citations_difficiles():
     """
-    Affiche la logique du quiz pour le type Citations et le niveau Moyen.
+    The hard quotes page
     """
 
     load_css("App/Style.css")
-   
+    
+    quotes = pd.read_csv("App/Utils/Kaamelott_Quotes.csv")
+
+    info_poids = pd.read_csv("App/Utils/Characters_Weighted_Medium.csv")
+
     st.image("App/Utils/Kaamelott.png")
     
-    data = load_data_citations_difficiles("App/Utils/Kaamelott_Repliques_Livres1_à_3.csv")
-    info_poids = pd.read_csv("App/Utils/Personnages_pondéré_moyen.csv")
 
     # Initialisation des variables dans st.session_state
     if  "questions" not in st.session_state :
             num_questions = st.session_state.get("num_questions", 10)  # Récupérer le nombre de questions
             st.session_state.questions = [
-            generate_question_citations_difficiles_test(data, info_poids) for _ in range(num_questions)
+            generate_question_citations_difficiles(quotes, info_poids) for _ in range(num_questions)
             ]
             st.session_state.current_question_index = 0
             st.session_state.feedback = ""
@@ -31,7 +33,7 @@ def display_citations_difficiles():
     if st.session_state.questions == []:
             num_questions = st.session_state.get("num_questions", 10)  # Récupérer le nombre de questions
             st.session_state.questions = [
-            generate_question_citations_difficiles_test(data) for _ in range(num_questions)
+            generate_question_citations_difficiles(quotes) for _ in range(num_questions)
             ]
 
    

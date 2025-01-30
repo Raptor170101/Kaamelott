@@ -176,6 +176,8 @@ def texte_information():
 
 **plongez dans l'univers de Kaamelott et de défiez vos connaissances ?**  
 
+**Voici les deux types de quiz disponible :**
+
 ### 1. Les Questions Générales
 
 - **Le concept :**  
@@ -184,6 +186,7 @@ Répondez à des questions sur Kaamelott en choisissant la bonne réponse parmi 
 - **Particularité :**  
 Les questions sont générées par ChatGPT en se basant sur une partie précise du script de la série.  
 Il est donc possible que certaines questions portent sur le même épisode dans un même quiz. 
+La génération du quiz peut prendre quelques instant, c'est tout à fait normal.
 
 - **Attention aux erreurs :**  
 Bien que cela ne devrait pas être fréquent, il peut arriver qu’une réponse soit incorrecte. Si une réponse vous semble étrange, vous pourriez avoir raison : n’hésitez pas à vérifier par vous-même !

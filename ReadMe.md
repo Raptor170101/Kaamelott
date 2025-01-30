@@ -60,12 +60,12 @@ Les questions sont générées dynamiquement via l'API **GPT-4o** :
 ## Logique du code 
 
 Voici la liste des fichiers importants pour la logique du code et leur utilité :
-**Utils.py** : Contient les fonctions principales utilisée dans les autres fichier
-**Home.py** : Contient le code de la page d'acceuil
-**Easy_Quotes.py** : Contient le code de la page du quiz des citations en mode facil
-**Medium_Quotes.py** : Contient le code de la page du quiz des citations en mode moyen
-**Hard_Quotes.py** : Contient le code de la page du quiz des citations en mode difficil
-**General_Questions.py** Contient le code de la page du quiz des questions générales
+- **Utils.py** : Contient les fonctions principales utilisée dans les autres fichier
+- **Home.py** : Contient le code de la page d'acceuil
+- **Easy_Quotes.py** : Contient le code de la page du quiz des citations en mode facil
+- **Medium_Quotes.py** : Contient le code de la page du quiz des citations en mode moyen
+- **Hard_Quotes.py** : Contient le code de la page du quiz des citations en mode difficil
+- **General_Questions.py** Contient le code de la page du quiz des questions générales
 
 ---
 ## 🚀 Installation et exécution
